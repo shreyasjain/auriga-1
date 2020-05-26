@@ -1,0 +1,151 @@
+
+.clearfix{
+    overflow: auto;
+}
+
+#tleft{
+    float: left;
+}
+
+#tright{
+    float: right;
+}
+
+.r2,.row-1 h1 span{
+    background-color:lightcoral;
+    color: black;
+    padding:10px
+}
+
+.row-2{
+    text-align: center;
+}
+
+
+
+.row-3,.row-6{
+    background-color: lightcoral;
+    margin: 15px;
+}
+
+.r1,.r32,.r33,.r62{
+    display: table;
+    margin: 10px;
+}
+
+.col{
+    float: left;
+    
+}
+
+.col span,.col32 span,.colr span{
+    background-color: dimgrey;
+    color: white;
+}
+
+.left1,.left32{
+    width: 30%;
+}
+.right1{
+    width: 30%;
+   margin-right: 40px;
+}
+.right2{
+    width: 30%;
+}
+.right11{
+    width: 60%;
+}
+.right32{
+    width: 30%;
+}
+
+.col32{
+    margin-left: 380px;
+}
+
+.right321{
+    width: 30%;
+}
+
+.r4{
+    margin-left: 380px;
+}
+
+.row-4 span{
+    background-color: lightcoral;
+    margin: 1.5px;
+    margin-bottom: 0px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.row-4 li{
+    display: inline-block;
+}
+
+.row-5{
+    background-color: lightcoral;
+    
+}
+
+.row-6{
+    background-color: lightcoral;
+}
+
+.l63{
+    width: 80%;
+}
+
+.r63{
+    width: 20%;
+}
+
+.l65{
+    width: 100%;
+}
+
+.left66{
+    width: 15%;
+}
+
+.left64{
+    width: 40%;
+}
+.l64{
+    width: 40%;
+}
+.colr{
+    float: right;
+}
+.main-container{
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 3px solid black;
+}
+.footer{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.row-7 span, #right-link{
+    background-color: dimgrey;
+}
+#fl{
+    float: left;
+}
+#fr, #right-link{
+    float: right;
+}
+
+span{
+    text-align: justify;
+}
+
+#right-link{
+    margin-right: 30px;
+    width:20%;
+    text-align: center;
+    color:white;
+}
